@@ -68,4 +68,4 @@ StudentManagementSystem
 🎥 Project Demo
 Watch the complete project demonstration here:
 
-🔗 **[Google Drive Demo:https](//drive.google.com/file/d/136IrCpTMQJ5dccfZINgFH527vH_8JeHI/view?usp=sharing)**
+🔗 **[Google Drive Demo](https://drive.google.com/file/d/136IrCpTMQJ5dcCfZINgFH527vH_8JeHI/view?usp=sharing)**
