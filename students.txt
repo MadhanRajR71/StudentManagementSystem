@@ -1,0 +1,3 @@
+101,madhan,20,ECE
+102,bharath,21,AIML
+111,rajesh,33,CSE
